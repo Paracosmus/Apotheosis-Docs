@@ -1,6 +1,13 @@
 input: .
 output: .retype
 url: apotheosiscardgame.com
+favicon: ./img/favicon.ico
+poweredByRetype: false
+
+hub:
+  link: https://google.com/
+  alt: Go to example.com
+  target: blank
 
 branding:
   title: Apotheosis
