@@ -1,1 +1,5 @@
-# Apotheosis Card Game
+---
+icon: home
+---
+![](img/banner.jpg)
+#

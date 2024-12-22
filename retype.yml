@@ -1,11 +1,31 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: apotheosiscardgame.com
+
 branding:
-  title: Apotheosis Card Game
-  label: Docs
+  title: Apotheosis
+  label: book
+  logo: ./img/logo.svg
+
+  colors:
+    label:
+      # text: "#000000"
+      # background: "#000000"
+
+breadcrumb:
+  home: ":icon-home:" # icon
+
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Home
+  link: ./
+  icon: bug
+
+- text: Contact
+  link: ./contact.md
+  icon: bug
+
+markdown:
+  lineBreaks: hard
+
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
