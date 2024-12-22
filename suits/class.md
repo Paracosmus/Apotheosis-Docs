@@ -1,6 +1,6 @@
 ---
 label: Classe
-icon: "../img/icons/Suit_Class.svg"
+icon: "../static/img/icons/Suit_Class.svg"
 order: 6
 ---
 
@@ -9,7 +9,7 @@ order: 6
 São os caminhos evolutivos escolhidos pelo personagem. Sua função é principalmente a de adicionar e aprimorar capacidades do personagem. Em um patamar narrativo, representam as escolhas profissionais ou de interesse de estudo e prática daquela pessoa.
 
 ||| :icon-file-moved:
-![](../img/cards/class.png)
+![](../static/img/cards/class.png)
 ||| :icon-arrow-down-right:
 1.	Bônus de Atributo: Valores adicionados aos Atributos do personagem
 2.	Conhecimentos: Adiciona +1 de nível em cada CONHECIMENTO ao personagem

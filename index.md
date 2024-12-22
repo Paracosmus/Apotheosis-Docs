@@ -2,7 +2,7 @@
 label: Home
 icon: home
 ---
-![](img/banner.jpg)
+![](static/img/banner.jpg)
 #
 
 <style>

@@ -1,6 +1,6 @@
 ---
 label: Evento
-icon: "../img/icons/Suit_Event.svg"
+icon: "../static/img/icons/Suit_Event.svg"
 order: 1
 ---
 
@@ -9,7 +9,7 @@ order: 1
 Representam acontecimentos e situações ocorrendo durante o jogo, como uma abordagem ou mudança de clima.
 
 ||| :icon-file-moved:
-![](../img/cards/event.png)
+![](../static/img/cards/event.png)
 ||| :icon-arrow-down-right:
 1.	Valor em DESTINO
 2.	Nível e Conhecimentos

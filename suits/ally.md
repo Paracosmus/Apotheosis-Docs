@@ -1,6 +1,6 @@
 ---
 label: Aliado
-icon: "../img/icons/Suit_Ally.svg"
+icon: "../static/img/icons/Suit_Ally.svg"
 order: 2
 ---
 
@@ -9,7 +9,7 @@ order: 2
 São personagens humanos, animais ou entidades.
 
 ||| :icon-file-moved:
-![](../img/cards/ally.png)
+![](../static/img/cards/ally.png)
 ||| :icon-arrow-down-right:
 1.	Tipo
 2.	Caminho

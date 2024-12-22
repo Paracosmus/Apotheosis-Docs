@@ -1,6 +1,6 @@
 ---
 label: Inventário
-icon: "../img/icons/Icon_Inventory.svg"
+icon: "../static/img/icons/Icon_Inventory.svg"
 order: 0
 ---
 

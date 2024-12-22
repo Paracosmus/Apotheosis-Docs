@@ -1,6 +1,6 @@
 ---
 label: Batalha
-icon: "../img/icons/Range_Straight.svg"
+icon: "../static/img/icons/Range_Straight.svg"
 order: 0
 ---
 

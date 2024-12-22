@@ -1,6 +1,6 @@
 ---
 label: Casa
-icon: "../img/icons/Suit_House.svg"
+icon: "../static/img/icons/Suit_House.svg"
 order: 7
 ---
 
@@ -9,7 +9,7 @@ order: 7
 É a base de todo Herói, que ao ser criado, começa com uma carta de CASA. Representa um conjunto de várias famílias, diferentes em nome e local, porém ligadas por linhagem sanguínea vinda de um ancestral comum.
 
 ||| :icon-file-moved:
-![](../img/cards/house.png)
+![](../static/img/cards/house.png)
 ||| :icon-arrow-down-right:
 1.	Atributos Base: Valores iniciais dos Atributos do personagem
 2.	Escudo da Casa: Símbolo ilustrativo da CASA

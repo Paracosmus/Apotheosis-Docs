@@ -1,6 +1,6 @@
 ---
 label: Habilidade
-icon: "../img/icons/Suit_Skill.svg"
+icon: "../static/img/icons/Suit_Skill.svg"
 order: 3
 ---
 
@@ -9,7 +9,7 @@ order: 3
 Representam novas capacidades físicas, mentais e espirituais adquiridas por um personagem, conforme ganha experiência de vida, que concedem efeitos e modificadores.
 
 ||| :icon-file-moved:
-![](../img/cards/skill.png)
+![](../static/img/cards/skill.png)
 ||| :icon-arrow-down-right:
 1.	Valor em XP
 2.	Nível e Conhecimentos

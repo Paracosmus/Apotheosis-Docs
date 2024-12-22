@@ -1,6 +1,6 @@
 ---
 label: Conhecimentos
-icon: "../img/icons/Icon_Knowledge.svg"
+icon: "../static/img/icons/Icon_Knowledge.svg"
 order: 0
 ---
 

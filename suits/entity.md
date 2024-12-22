@@ -1,6 +1,6 @@
 ---
 label: Ente
-icon: "../img/icons/Suit_Entity.svg"
+icon: "../static/img/icons/Suit_Entity.svg"
 order: 5
 ---
 
@@ -9,7 +9,7 @@ order: 5
 É uma espécie de alma, superior à humana. Um aglomerado de uma forma específica de energia relacionada a uma característica do universo. Carece de consciência, porém, é capaz de agir sobre a natureza.
 
 ||| :icon-file-moved:
-![](../img/cards/entity.png)
+![](../static/img/cards/entity.png)
 ||| :icon-arrow-down-right:
 1.	Bônus de Atributo: Valores adicionados aos Atributos do personagem quando este ENTE está desperto
 2.	Tipo: Ícone e nome do tipo deste ENTE, definido pelo nível da carta

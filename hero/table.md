@@ -1,6 +1,6 @@
 ---
 label: Mesa
-icon: "../img/icons/Icon_Table.svg"
+icon: "../static/img/icons/Icon_Table.svg"
 order: 0
 ---
 

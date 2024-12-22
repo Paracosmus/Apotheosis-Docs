@@ -1,6 +1,6 @@
 ---
 label: Item
-icon: "../img/icons/Suit_Item.svg"
+icon: "../static/img/icons/Suit_Item.svg"
 order: 4
 ---
 
@@ -9,7 +9,7 @@ order: 4
 É todo e qualquer objeto físico presente no jogo, geralmente algo que pode ser carregado, como uma arma ou uma fruta. Eles são classificados por tipo, que define um comportamento em comum.
 
 ||| :icon-file-moved:
-![](../img/cards/item.png)
+![](../static/img/cards/item.png)
 ||| :icon-arrow-down-right:
 1.	Preço
 2.	Nível e Conhecimentos

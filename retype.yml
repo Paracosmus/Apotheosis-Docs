@@ -1,13 +1,13 @@
 input: .
 output: .retype
 url: apotheosiscardgame.com
-favicon: ./img/favicon.ico
+favicon: ./static/img/favicon.ico
 poweredByRetype: false
 
 branding:
   title: Apotheosis
   label: book
-  logo: ./img/logo.svg
+  logo: ./static/img/logo.svg
 
   colors:
     label:
