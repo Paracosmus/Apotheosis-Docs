@@ -1,6 +1,6 @@
 ---
 label: Atributos
-icon: "../img/icons/Suit_Entity.svg"
+icon: sliders
 order: 0
 ---
 

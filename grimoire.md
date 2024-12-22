@@ -1,11 +1,13 @@
 ---
-label: Grimório do Alexandre
+label: Grimório do Bruxão
 icon: log
 order: 0
 ---
 
-# GRIMÓRIO DO ALEXANDRE ÍCARO
+# GRIMÓRIO DO BRUXÃO
 Esta sessão encapsula e lista alguns elementos de cunho exclusivamente narrativos do universo do jogo.
+
+---
 
 ## MATERIAIS
 
@@ -50,6 +52,8 @@ Lista de materiais com comportamento diferenciado quando interagem com éter.
 * Prata: Tem propriedades que causam dano a evocação e alguns ENTES de energia negativa.
 * Espelho de Prata: Tem propriedades de refletir o éter enviado em sua direção, bem como de gerar portais.
 
+---
+
 ## PROCESSO DE APOTEOSE
 É chamado de Apoteose, o processo de invocar um ENTE de nível 3. Porém, os praticantes divergem em relação ao ENTE invocado, eles costumam dividir a Apoteose em 2 tipos:
 
@@ -58,3 +62,5 @@ Ou Falsa Apoteose, é quando o ENTE for de nível 3, porém a raridade de sua ca
 
 ### Grande Apoteose
 Ou Apoteose Verdadeira, é quando o ENTE é de nível 3 e a raridade de sua carta é lendária.
+
+---

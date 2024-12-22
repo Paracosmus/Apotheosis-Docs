@@ -4,11 +4,6 @@ url: apotheosiscardgame.com
 favicon: ./img/favicon.ico
 poweredByRetype: false
 
-hub:
-  link: https://google.com/
-  alt: Go to example.com
-  target: blank
-
 branding:
   title: Apotheosis
   label: book
@@ -25,11 +20,7 @@ breadcrumb:
 links:
 - text: Home
   link: ./
-  icon: bug
-
-- text: Contact
-  link: ./contact.md
-  icon: bug
+  icon: home
 
 markdown:
   lineBreaks: hard

@@ -1,6 +1,6 @@
 ---
 label: Formatos
-icon: "../img/icons/Suit_Entity.svg"
+icon: checklist
 order: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 label: Anexos
-icon: "../img/icons/Suit_Entity.svg"
+icon: link-external
 order: 0
 ---
 

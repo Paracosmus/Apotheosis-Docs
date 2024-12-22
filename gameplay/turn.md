@@ -1,6 +1,6 @@
 ---
 label: Turno
-icon: "../img/icons/Suit_Entity.svg"
+icon: hourglass
 order: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 label: Personagens
-icon: "../img/icons/Suit_Entity.svg"
+icon: accessibility-inset
 order: 0
 ---
 

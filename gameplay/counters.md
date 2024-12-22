@@ -1,6 +1,6 @@
 ---
 label: Contadores
-icon: "../img/icons/Suit_Entity.svg"
+icon: number
 order: 0
 ---
 

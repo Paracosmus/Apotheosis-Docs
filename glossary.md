@@ -20,3 +20,5 @@ Este livro e as cartas do jogo, utilizam em seus textos, palavras que possuem si
 * **Deitar**: Girar a carta para que ela fique na horizontal, em relação à MESA do personagem.
 * **Levantar**: Girar a carta para que ela fique na vertical, em relação à MESA do personagem.
 * **Sacrificar** o Turno: O personagem não pode realizar nenhuma outra ação ou jogada não automática nesta rodada, a não ser a ação requerida. Caso qualquer ação já tenha sido feita, ele não pode sacrificar seu turno nesta rodada.
+
+---

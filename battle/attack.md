@@ -1,6 +1,6 @@
 ---
 label: Batalha
-icon: apps
+icon: "../img/icons/Range_Straight.svg"
 order: 0
 ---
 

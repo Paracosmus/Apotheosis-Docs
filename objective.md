@@ -1,7 +1,7 @@
 ---
 label: Objetivo do Jogo
 icon: telescope
-order: 0
+order: 100
 ---
 
 # OBJETIVO

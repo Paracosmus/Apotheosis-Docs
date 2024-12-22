@@ -1,6 +1,6 @@
 ---
 label: Cartas
-icon: "../img/icons/Suit_Entity.svg"
+icon: device-mobile
 order: 0
 ---
 
