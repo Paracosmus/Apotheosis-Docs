@@ -15,7 +15,7 @@ branding:
       # background: "#000000"
 
 breadcrumb:
-  home: ":icon-home:" # icon
+  home: ":icon-home:"
 
 links:
 - text: Home
